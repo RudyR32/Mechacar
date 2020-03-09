@@ -1,5 +1,5 @@
 # Mechacar
-##### Link to Mechacar_Challenge
+#### Link to Mechacar_Challenge
 [Click Here for Code](https://github.com/RudyR32/Mechacar/blob/master/MechaCarChallenge.R)
 ## MPG Regression
 ![Regression_Image](https://github.com/RudyR32/Mechacar/blob/master/images/Mechacar_MPG_Regression.png)
