@@ -1,5 +1,6 @@
 # Mechacar
-
+##### Link to Mechacar_Challenge
+[Click Here for Code](https://github.com/RudyR32/Mechacar/blob/master/MechaCarChallenge.R)
 ## MPG Regression
 ![Regression_Image](https://github.com/RudyR32/Mechacar/blob/master/images/Mechacar_MPG_Regression.png)
 ##### 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
